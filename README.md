@@ -1,2 +1,1 @@
-# spooky-
-yes
+Through JavaScript i created this game and the inspiration for theme was Halloween which is resembled here by the spooky ghost and pumpkin as well as the dark black background. The game is that you have to touch that moving ghost in order to increase your score count. The more you score the better it is . This is a perfect game to enjoy with your friends  
